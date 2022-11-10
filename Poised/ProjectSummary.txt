@@ -1,0 +1,75 @@
+Project: FLATS BENJI
+=======================================================
+-----------------------------------------
+------- Project Details -------
+projNo: 1
+projName: Flats Benji
+buildingDesign: Flats
+address: 20 Victoria
+ERFNumber: 203920193
+Date Started: 2022-02-10
+Due Date: 2020-10-02
+feeCharged: 1000000.0
+amountPaid: 20000.0
+finalised: true
+Completion Date: 2022-10-14
+-----------------------------------------
+------- Customer Details -------
+name: Benji
+tellNo: 02194029121
+emailAddress: Benji@gmail.com
+physAddress: 21 Stiblits road
+-----------------------------------------
+------- Architect Details -------
+name='Ranger
+tellNo='0214920139
+emailAddress='Ranger@gmail.com
+physAddress='12 Loksi road
+-----------------------------------------
+------- Contactor Details -------
+name='Thumi
+tellNo='0214931032
+emailAddress='Thumi2@gmail.com
+physAddress='12 Rosh Road
+
+
+*********************************************************
+ 
+ Project: SAMNI ROADS
+=======================================================
+-----------------------------------------
+------- Project Details -------
+projNo: 2
+projName: Samni Roads
+buildingDesign: Mansion
+address: 21 Rofy road
+ERFNumber: 3492049
+Date Started: 2020-03-02
+Due Date: 2022-01-01
+feeCharged: 2000000.0
+amountPaid: 10000.0
+finalised: false
+Completion Date: null
+-----------------------------------------
+------- Customer Details -------
+name: Rushi
+tellNo: 0213930192
+emailAddress: Rushi@gmail.com
+physAddress: 21 Rof road
+-----------------------------------------
+------- Architect Details -------
+name='Rumi
+tellNo='0219393010
+emailAddress='Rumi@gmail.com
+physAddress='21 Mash Street
+-----------------------------------------
+------- Contactor Details -------
+name='Lukmni
+tellNo='02194930293
+emailAddress='Lukmni@gmail.com
+physAddress='21 arowa raod
+
+
+*********************************************************
+ 
+ 
